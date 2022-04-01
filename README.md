@@ -1,4 +1,4 @@
-# <pre>                     boot_x86                      </pre> 
+##boot_x86
 **One more pointless bootloader implemented in educational purposes**
 
 ##                          **BUILD AND RUN**                 
