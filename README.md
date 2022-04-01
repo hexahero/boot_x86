@@ -1,4 +1,4 @@
-##boot_x86
+## **boot_x86**
 **One more pointless bootloader implemented in educational purposes**
 
 ##                          **BUILD AND RUN**                 
