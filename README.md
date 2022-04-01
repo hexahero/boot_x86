@@ -26,7 +26,7 @@
 `#./build.sh`
 
 2. Run with tty output<br>
-```run_wsl_tty.sh```
+```./run_wsl_tty.sh```
 
 **RUN ON BARE METAL**
 
@@ -49,4 +49,4 @@ Graphics output:<br>
 `#./build.sh`
 
 4. Run<br>
-```run_wsl_gfx.sh```
+```./run_wsl_gfx.sh```
